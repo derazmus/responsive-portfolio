@@ -197,3 +197,16 @@ footer{
 	border-top: 5px solid #4aaaa5 ;
 
  }
+
+@media (max-width: 980px)
+	{body{background-image: pink}
+ 
+}
+ 
+@media (max-width: 768px)
+	{body{background-image: yellow}
+}
+
+@media (max-width: 640px)
+	{body {background-image: orange}
+}
